@@ -7,6 +7,7 @@ namespace Tyuiu.BushlyaYaV.Sprint4.Task2.V13.Lib
     {
         public int Calculate(int[] array)
         {
+
             int p = 1;
             for (int i = 0; i <= array.Length - 1; i++)
             {

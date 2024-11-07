@@ -7,7 +7,7 @@ namespace Tyuiu.BushlyaYaV.Sprint4.Task2.V13
     {
         static void Main(string[] args)
         {
-            Random rnd = new Random();//
+            Random rnd = new Random();
             DataService ds = new DataService();
             Console.Title = "Спринт #4 │ Выполнил: Бушля Я. В. │ ИСТНб-24-1";
             Console.WriteLine("***************************************************************************");
